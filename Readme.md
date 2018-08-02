@@ -66,7 +66,7 @@ io.on('connection', function(socket){
 
 Browser support is tested in Saucelabs:
 
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/socket.svg)](https://saucelabs.com/u/socket)
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/socket.svg)](https://saucelabs.com/u/socket) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/socketio--socket.io.svg)](https://www.staging.guardrails.io)
 
 #### Multiplexing support
 
